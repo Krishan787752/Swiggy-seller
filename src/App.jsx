@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Sidebar from "./components/Sidebar";
-import Navbar from "./components/Navbar";
+import Sidebar from "./Components/Sidebar";
+import Navbar from "./Components/Navbar";
 import Dashboard from "./pages/Dashboard";
 import Categories from "./Pages/Categories";
 import Restaurants from "./Pages/Restaurants";
